@@ -1,0 +1,10 @@
+npm config set proxy http://10.19.16.165:8000
+npm init - package.json
+
+react libraries
+babel libraries (es2015,JSX -> ES5)
+Webpack - bundling tool (CSS,JS, other scrpits -> JS)
+express for server
+
+
+npm test2 // start server
